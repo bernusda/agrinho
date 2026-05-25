@@ -25,6 +25,5 @@ Para a construção deste ecossistema web, foram utilizadas as tecnologias funda
 
 ## 📂 Como Executar o Projeto Localmente
 
-1. Faça o clone ou baixe este repositório para a sua máquina:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+1. Clique no Link a seguir:
+2.  [https://bernusda.github.io/agrinho/)
